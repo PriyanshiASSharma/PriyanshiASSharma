@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyanshiASSharma
 - 👀 I’m interested in sketching
-- 🌱 I’m currently learning about web development
+- 🌱 I’m currently learning about web development & programming language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
